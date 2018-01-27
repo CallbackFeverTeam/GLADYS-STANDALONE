@@ -70,7 +70,6 @@ node_modules
 coverage
 cache/*.json
 www
-api/hooks
 
 ################################################
 # Sails.js / Waterline / Grunt
@@ -120,3 +119,4 @@ nbproject
 typings
 jsconfig.json
 .env
+.vscode
